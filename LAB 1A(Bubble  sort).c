@@ -42,3 +42,13 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Enter number of elements: 5
+Enter 5 elements:
+2
+5
+7
+4
+3
+Sorted array: 2 3 4 5 7 
