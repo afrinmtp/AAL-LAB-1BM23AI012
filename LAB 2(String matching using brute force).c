@@ -39,3 +39,7 @@ int main() {
 
     return 0;
 }
+OUTPUT:
+Enter the text: im batman
+Enter the pattern to search: bat
+Pattern found at index 3
