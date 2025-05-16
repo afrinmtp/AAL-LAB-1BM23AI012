@@ -58,3 +58,10 @@ int main() {
     printArray(arr, n);
     return 0;
 }
+
+OUTPUT:
+Original array:
+12 11 13 5 6 7 
+Sorted array:
+5 6 7 11 12 13 
+
