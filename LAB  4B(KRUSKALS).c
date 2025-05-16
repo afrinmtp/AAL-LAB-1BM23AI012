@@ -69,3 +69,10 @@ int main() {
     kruskalMST(edges, V, E);
     return 0;
 }
+
+
+OUTPUT:
+Minimum Spanning Tree (MST) edges:
+2 - 3 	4
+0 - 3 	5
+0 - 1 	10
