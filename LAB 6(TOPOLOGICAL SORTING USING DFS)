@@ -63,3 +63,6 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Topological Sort: 0 2 1 4 3 5 
